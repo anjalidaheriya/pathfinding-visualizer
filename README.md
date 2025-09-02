@@ -34,9 +34,8 @@ A web-based **Pathfinding Visualizer** built with **Vite + React + TailwindCSS**
 ### Get Started 
 
 ```
-❯ npm create vite@latest pathfinding-visualizer -- --template react-ts
-❯ npm install -D tailwindcss postcss autoprefixer
-❯ npx tailwindcss init -p
-❯ npm i
+❯ git clone https://github.com/anjalidaheriya/pathfinding-visualizer.git
+❯ cd pathfinding-visualizer
+❯ npm install
 ❯ npm run dev
 ```
